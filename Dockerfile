@@ -1,2 +1,2 @@
-FROM puckel/docker-airflow:1.10.4
+FROM duyetdev/airflow:1.10.10
 COPY dags /usr/local/airflow/dags
